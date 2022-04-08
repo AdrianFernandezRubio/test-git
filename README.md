@@ -24,3 +24,7 @@ I una mica de codi `html`:
     </body>
 </html>
 ```
+
+# I ara, gatete
+
+![Foto d'un gat](_90488595_thinkstockphotos_gato5.jpg)
